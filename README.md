@@ -16,7 +16,7 @@ A native Vietnam from Hanoi city; studying in International Business at Thuong M
     - How to convince clients
     - Analyze customer needs
     - Communication skill
-## [Leader of External Relation in ECS English Club](https://www.facebook.com/ecsenglishclub/photos/pb.100064446469479.-2207520000/8605575746122776/?type=3), Thuong Mai University
+  ## [Leader of External Relation in ECS English Club](https://www.facebook.com/ecsenglishclub/photos/pb.100064446469479.-2207520000/8605575746122776/?type=3), Thuong Mai University
   - 8/2022 – 10/2023
     - Represent the club to participate in events and programs of organizations inside and outside the school.
     - Find, negotiate and work with enterprises or organizations that sponsor events and activities of the club.
