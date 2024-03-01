@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Nguyen Van Anh
 description: Good things take time!
-avatar: "./assets/avatar.jpg"
+avatar: ./assets/avatar.jpg
 round-avatar: true
+url: http://vananh.github.io/
